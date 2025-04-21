@@ -71,7 +71,7 @@ This project is a **minimal foundation** for learning Kafka and can be extended 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/kafka-like-broker.git
+   git clone https://github.com/akash-rathor/kafka-like-broker.git
    cd kafka-like-broker
    ```
 
